@@ -30,7 +30,7 @@ Vibelens utilizes sophisticated machine learning algorithms to process and analy
 
 ## Getting Started
 
-To start using Vibelens, you can visit our [website](vibelens.ai). We’re constantly improving and adding new features, so stay tuned for updates!
+To start using Vibelens, you can visit our [website](http://vibelens.ai). We’re constantly improving and adding new features, so stay tuned for updates!
 
 ---
 
