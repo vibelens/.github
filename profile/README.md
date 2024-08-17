@@ -24,7 +24,7 @@ In an era where information is abundant and emotions run high, understanding the
 
 Vibelens utilizes sophisticated machine learning algorithms to process and analyze text. Here's a quick overview of the process:
 
-1. **Submit The URL of a Public Artivle**: Provide the article you want to analyze.
+1. **Submit The URL of a Public Article**: Provide the article you want to analyze.
 2. **Receive Emotional Analysis**: Our models analyze the content and categorize it into emotional tones.
 3. **Compare and Explore**: Use our tools to compare different texts and explore how emotions are distributed.
 
